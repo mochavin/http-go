@@ -1,0 +1,6 @@
+Ini hanya sebagai test. <a href="/view/FrontPage">FrontPage</a>
+
+</br>
+mencoba <b>BOLD</b>
+</br>
+ini adalah <i>Italic</i>
