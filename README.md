@@ -2,6 +2,11 @@
 
 Go Wiki adalah aplikasi web sederhana yang memungkinkan Anda membuat, mengedit, dan melihat halaman wiki. Aplikasi ini ditulis dalam bahasa pemrograman Go dan menggunakan template HTML untuk rendering halaman.
 
+
+## Demo
+
+[![Go Wiki Demo](https://github.com/user-attachments/assets/628e8eb6-c60e-4c61-9e25-79541854c05a)](https://github.com/user-attachments/assets/628e8eb6-c60e-4c61-9e25-79541854c05a)
+
 ## Fitur
 
 - Membuat halaman wiki baru
